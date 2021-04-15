@@ -85,3 +85,5 @@ To visualise the detection please run
 rosrun image_view image_view image:=/person_detector/debug
 ~~~
 
+## Video
+https://youtu.be/cm82dSOuo60
